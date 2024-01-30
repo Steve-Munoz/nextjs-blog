@@ -21,7 +21,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, My name is Steve Munoz and I am a passionate aspiring software engineer and enthustiac learner. Some of my favorite pastimes are hiking in nature and giving myself a mental break from the daily stresses of life. This includes kayaking, biking, and running. Catch me outside about that!</p>
+        <p>Hello, My name is Steve Munoz and I am a passionate aspiring software engineer and enthustiac learner. Some of my favorite pastimes are hiking in nature and giving myself a mental break from the daily stresses of life. This includes kayaking, biking, and running. Catch me outside how about that!</p>
         <p>
           Check out my 
           <a href="https://samunoz.com"> portfolio </a>
